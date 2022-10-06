@@ -1,4 +1,4 @@
-// Link to the question:- hhttps://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+// Link to the question:-  https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
 class Solution {
 public:
